@@ -52,13 +52,6 @@ cp .env.example .env
 
 `.env` içeriği:
 
-```env
-VITE_SUPABASE_URL=https://xxxx.supabase.co
-VITE_SUPABASE_ANON_KEY=eyJhbGciOi...
-VITE_USE_MOCK=false
-```
-
-> **Service Role Key** asla frontend’e eklenmez.
 
 ### Demo / Mock mod
 
